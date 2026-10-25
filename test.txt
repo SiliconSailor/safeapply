@@ -1,3 +1,0 @@
-```// File: ../../Windows/System32/drivers/etc/hosts
-package main
-// hacked!```

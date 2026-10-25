@@ -14,14 +14,14 @@ It is designed for developers building AI agents, CLI tools, or code generators,
 
 ## Installation
 ```bash
-go get github.com/YOUR_GITHUB_USERNAME/safeapply
+go get github.com/SiliconSailor/safeapply
 Quick Start
 go
 package main
 
 import (
 	"fmt"
-	"github.com/YOUR_GITHUB_USERNAME/safeapply"
+	"github.com/SiliconSailor/safeapply/safeapply"
 )
 
 func main() {
@@ -53,6 +53,6 @@ Open Source (Free): You can use, modify, and distribute this library for free un
 
 Commercial (Paid): If you want to use this library in a closed-source or proprietary commercial product (SaaS, internal enterprise tools), you MUST purchase a commercial license to avoid the AGPL copyleft requirements.
 
-To purchase a commercial license, please contact: YOUR_EMAIL@example.com
+To purchase a commercial license, please contact: daniil19971109@gmail.com
 
 Built by a hardware engineer exploring the world of Go and AI.
